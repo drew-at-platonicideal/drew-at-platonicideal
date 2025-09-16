@@ -2,7 +2,7 @@
 
 Most of the repositories here are kept private, as platonicideal (which is mostly myself at the moment, codewise) contain potentially business or client sensitive information.
 
-I can be reached at drew@platonicideal.com
+I can be reached at wastevens@gmail.com
 
 To the DigitalOcean Droplet limit increasing team- thanks for your time!
 
